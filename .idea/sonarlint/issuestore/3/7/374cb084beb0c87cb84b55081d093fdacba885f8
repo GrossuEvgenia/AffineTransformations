@@ -1,0 +1,72 @@
+
+F
+java:S1604ù"(Make this anonymous inner class a lambda(Ò´Å®8•¶Êóğ0
+F
+java:S1604 "(Make this anonymous inner class a lambda(¢ÎÍ´8–¶Êóğ0
+g
+java:S2095A"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÈšŸ¶úÿÿÿÿ8¤·Êóğ0
+X	java:S125^"<This block of commented-out lines of code should be removed.(ÉÀ¶”8Ñ·Êóğ0
+–
+java:S1130u"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(¢ñÌáüÿÿÿÿ8Ô·Êóğ0
+—
+java:S1130€"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(şñÉûüÿÿÿÿ8×·Êóğ0
+’
+java:S1130‹"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(Ï²°Ñ8Ù·Êóğ0
+—
+java:S1130–"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(´£¼õÿÿÿÿÿ8Ü·Êóğ0
+—
+java:S1130¡"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(”šóäøÿÿÿÿ8ß·Êóğ0
+—
+java:S1130¬"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(ÜúøÛıÿÿÿÿ8á·Êóğ0
+—
+java:S1130·"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(´´êşùÿÿÿÿ8ä·Êóğ0
+’
+java:S1130Â"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(ì¥øŒ8æ·Êóğ0
+’
+java:S1130Í"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(òÕ•Ñ8è·Êóğ0
+—
+java:S1130Ø"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(Ñ•×ˆúÿÿÿÿ8ë·Êóğ0
+—
+java:S1130ã"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(ÛÊ’»ûÿÿÿÿ8í·Êóğ0
+—
+java:S1130î"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(Éõ½Ìıÿÿÿÿ8ï·Êóğ0
+’
+java:S1130ù"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(ã±Ö8ò·Êóğ0
+—
+java:S1130„"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(ŞœÜîşÿÿÿÿ8õ·Êóğ0
+—
+java:S1130"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(£á‰øÿÿÿÿ8÷·Êóğ0
+—
+java:S1130›"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(¦Ê°†øÿÿÿÿ8ù·Êóğ0
+’
+java:S1130¦"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(Ä®Ÿì8ü·Êóğ0
+’
+java:S1130±"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(Œó—8ş·Êóğ0
+’
+java:S1130¼"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(Ê×â8€¸Êóğ0
+—
+java:S1130À"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(™¼İÆúÿÿÿÿ8‚¸Êóğ0
+‘
+java:S1130Å"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(¥©K8ƒ¸Êóğ0
+E
+java:S1125ı"'Remove the unnecessary boolean literal.(£Ş†…8¸Êóğ0
+J
+java:S1125ƒ"'Remove the unnecessary boolean literal.(ªÌ½Ğşÿÿÿÿ8¸Êóğ0
+J
+java:S1125‡"'Remove the unnecessary boolean literal.(î¡æúûÿÿÿÿ8‘¸Êóğ0
+E
+java:S1125‘"'Remove the unnecessary boolean literal.(¸¶Çø8“¸Êóğ0
+h
+java:S3252š"EUse static access with "javafx.animation.Animation" for "INDEFINITE".(Êı şÿÿÿÿ8”¸Êóğ0
+E
+java:S1125£"'Remove the unnecessary boolean literal.(£Ş†…8—¸Êóğ0
+h
+java:S3252¹"EUse static access with "javafx.animation.Animation" for "INDEFINITE".(Êı şÿÿÿÿ8š¸Êóğ0
+Z
+java:S1128"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8¯Ô®¾ó0
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¯Ô®¾ó0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¯Ô®¾ó0
+^
+java:S1144";Remove this unused private "animationStartVariant2" method.(Ñï•±ÿÿÿÿÿ8›¸Êóğ0
