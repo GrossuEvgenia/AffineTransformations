@@ -7,4 +7,4 @@
 
 Внешний вид программы:
 
-![affin](https://github.com/GrossuEvgenia/AffineTransformations/assets/70910919/87e26b33-a822-40e8-9b0c-51baa3f9135e)
+![affinetransform](https://github.com/GrossuEvgenia/AffineTransformations/assets/70910919/37a5412d-3bf9-4eaa-b433-a4299f53c475)
